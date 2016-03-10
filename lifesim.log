@@ -1,0 +1,348 @@
+2013/04/11 13:20:11 Adult created Larry with job of Plumber
+2013/04/11 13:20:11 Adult created Emma with job of Attorney
+2013/04/11 13:20:11 Adult created Gerome with job of Software_Engineer
+2013/04/11 13:20:11 Adult created Gertrude with job of Programmer
+2013/04/11 13:20:11 World Created
+2013/04/11 13:20:11 Larry: Current Happiness: 52. Current age: 21. Maximum age: 57.
+2013/04/11 13:20:11 Gerome: Current Happiness: 100. Current age: 21. Maximum age: 105.
+2013/04/11 13:20:11 Emma: Current Happiness: 100. Current age: 21. Maximum age: 105.
+2013/04/11 13:20:11 Gertrude: Current Happiness: 89. Current age: 21. Maximum age: 94.
+2013/04/11 13:20:11 Child created: Nathan
+2013/04/11 13:20:11 Nathan was created
+2013/04/11 13:20:11 House 1 Bank Balance is  174600
+2013/04/11 13:20:11 House 2 Bank Balance is  38600
+2013/04/11 13:20:11 End of Cycle 1
+
+2013/04/11 13:20:11 Nathan: Current Happiness: 21. Current age: 1. Maximum age: 75.
+2013/04/11 13:20:12 Emma: Current Happiness: 100. Current age: 22. Maximum age: 105.
+2013/04/11 13:20:12 Child created: Elie
+2013/04/11 13:20:12 Gerome: Current Happiness: 100. Current age: 22. Maximum age: 105.
+2013/04/11 13:20:12 Elie was created
+2013/04/11 13:20:12 Gertrude: Current Happiness: 100. Current age: 22. Maximum age: 105.
+2013/04/11 13:20:12 Child created: Carter
+2013/04/11 13:20:12 Carter was created
+2013/04/11 13:20:12 Larry: Current Happiness: 100. Current age: 22. Maximum age: 105.
+2013/04/11 13:20:12 House 1 Bank Balance is  324740
+2013/04/11 13:20:12 House 2 Bank Balance is  180026
+2013/04/11 13:20:12 End of Cycle 2
+
+2013/04/11 13:20:12 Carter: Current Happiness: 61. Current age: 1. Maximum age: 86.
+2013/04/11 13:20:12 Elie: Current Happiness: 58. Current age: 1. Maximum age: 83.
+2013/04/11 13:20:14 Nathan: Current Happiness: 56. Current age: 2. Maximum age: 81.
+2013/04/11 13:20:14 Gertrude: Current Happiness: 100. Current age: 23. Maximum age: 105.
+2013/04/11 13:20:14 Emma: Current Happiness: 100. Current age: 23. Maximum age: 106.
+2013/04/11 13:20:14 Child created: Larry
+2013/04/11 13:20:14 Child created: Lucas
+2013/04/11 13:20:14 Larry was created
+2013/04/11 13:20:14 Lucas was created
+2013/04/11 13:20:14 Larry: Current Happiness: 100. Current age: 23. Maximum age: 106.
+2013/04/11 13:20:14 Gerome: Current Happiness: 100. Current age: 23. Maximum age: 105.
+2013/04/11 13:20:14 House 1 Bank Balance is  500177
+2013/04/11 13:20:14 House 2 Bank Balance is  389625
+2013/04/11 13:20:14 End of Cycle 3
+
+2013/04/11 13:20:14 Lucas: Current Happiness: 71. Current age: 1. Maximum age: 96.
+2013/04/11 13:20:14 Larry: Current Happiness: 80. Current age: 1. Maximum age: 105.
+2013/04/11 13:20:15 Gerome: Current Happiness: 100. Current age: 24. Maximum age: 105.
+2013/04/11 13:20:15 Emma: Current Happiness: 100. Current age: 24. Maximum age: 106.
+2013/04/11 13:20:15 Gertrude: Current Happiness: 100. Current age: 24. Maximum age: 105.
+2013/04/11 13:20:15 Child created: Emily
+2013/04/11 13:20:15 Child created: Steve
+2013/04/11 13:20:15 Emily was created
+2013/04/11 13:20:15 Steve was created
+2013/04/11 13:20:15 Carter: Current Happiness: 90. Current age: 2. Maximum age: 115.
+2013/04/11 13:20:15 Elie: Current Happiness: 100. Current age: 2. Maximum age: 125.
+2013/04/11 13:20:15 Nathan: Current Happiness: 100. Current age: 3. Maximum age: 125.
+2013/04/11 13:20:15 Larry: Current Happiness: 100. Current age: 24. Maximum age: 106.
+2013/04/11 13:20:15 House 1 Bank Balance is  602359
+2013/04/11 13:20:15 House 2 Bank Balance is  429743
+2013/04/11 13:20:15 End of Cycle 4
+
+2013/04/11 13:20:15 Steve: Current Happiness: 100. Current age: 1. Maximum age: 125.
+2013/04/11 13:20:15 Emily: Current Happiness: 100. Current age: 1. Maximum age: 125.
+2013/04/11 13:21:07 Adult created Larry with job of Plumber
+2013/04/11 13:21:07 Adult created Emma with job of Attorney
+2013/04/11 13:21:07 Adult created Gerome with job of Software_Engineer
+2013/04/11 13:21:07 Adult created Gertrude with job of Programmer
+2013/04/11 13:21:07 World Created
+2013/04/11 13:21:07 Gerome: Current Happiness: 100. Current age: 21. Maximum age: 125.
+2013/04/11 13:21:07 Emma: Current Happiness: 100. Current age: 21. Maximum age: 125.
+2013/04/11 13:21:07 Gertrude: Current Happiness: 89. Current age: 21. Maximum age: 119.
+2013/04/11 13:21:07 Child created: Sienna
+2013/04/11 13:21:07 Sienna was created
+2013/04/11 13:21:07 Larry: Current Happiness: 85. Current age: 21. Maximum age: 110.
+2013/04/11 13:21:07 House 1 Bank Balance is  174600
+2013/04/11 13:21:07 House 2 Bank Balance is  38600
+2013/04/11 13:21:07 End of Cycle 1
+
+2013/04/11 13:21:07 Sienna: Current Happiness: 21. Current age: 1. Maximum age: 75.
+2013/04/11 13:21:08 Gerome: Current Happiness: 100. Current age: 22. Maximum age: 125.
+2013/04/11 13:21:08 Larry: Current Happiness: 91. Current age: 22. Maximum age: 116.
+2013/04/11 13:21:08 Gertrude: Current Happiness: 100. Current age: 22. Maximum age: 130.
+2013/04/11 13:21:08 Emma: Current Happiness: 100. Current age: 22. Maximum age: 125.
+2013/04/11 13:21:08 Child created: Felix
+2013/04/11 13:21:08 Child created: Mary
+2013/04/11 13:21:08 Felix was created
+2013/04/11 13:21:08 Mary was created
+2013/04/11 13:21:08 House 1 Bank Balance is  323340
+2013/04/11 13:21:08 House 2 Bank Balance is  180026
+2013/04/11 13:21:08 End of Cycle 2
+
+2013/04/11 13:21:08 Mary: Current Happiness: 57. Current age: 1. Maximum age: 82.
+2013/04/11 13:21:08 Felix: Current Happiness: 61. Current age: 1. Maximum age: 86.
+2013/04/11 13:21:09 Gerome: Current Happiness: 100. Current age: 23. Maximum age: 130.
+2013/04/11 13:21:09 Sienna: Current Happiness: 56. Current age: 2. Maximum age: 81.
+2013/04/11 13:21:09 Gertrude: Current Happiness: 100. Current age: 23. Maximum age: 130.
+2013/04/11 13:21:09 Emma: Current Happiness: 100. Current age: 23. Maximum age: 130.
+2013/04/11 13:21:09 Child created: Joseph
+2013/04/11 13:21:09 Child created: Christian
+2013/04/11 13:21:09 Joseph was created
+2013/04/11 13:21:09 Christian was created
+2013/04/11 13:21:09 Larry: Current Happiness: 100. Current age: 23. Maximum age: 125.
+2013/04/11 13:21:09 House 1 Bank Balance is  497307
+2013/04/11 13:21:09 House 2 Bank Balance is  388082
+2013/04/11 13:21:09 End of Cycle 3
+
+2013/04/11 13:21:09 Christian: Current Happiness: 79. Current age: 1. Maximum age: 104.
+2013/04/11 13:21:09 Joseph: Current Happiness: 70. Current age: 1. Maximum age: 95.
+2013/04/11 13:21:48 Adult created Gerome with job of Software_Engineer
+2013/04/11 13:21:48 Adult created Gertrude with job of Programmer
+2013/04/11 13:21:48 Adult created Larry with job of Plumber
+2013/04/11 13:21:48 Adult created Emma with job of Attorney
+2013/04/11 13:21:48 World Created
+2013/04/11 13:21:48 Gertrude: Current Happiness: 68. Current age: 21. Maximum age: 93.
+2013/04/11 13:21:48 Larry: Current Happiness: 52. Current age: 21. Maximum age: 78.
+2013/04/11 13:21:48 Emma: Current Happiness: 100. Current age: 21. Maximum age: 125.
+2013/04/11 13:21:48 Gerome: Current Happiness: 100. Current age: 21. Maximum age: 125.
+2013/04/11 13:21:48 Child created: Steve
+2013/04/11 13:21:48 Steve was created
+2013/04/11 13:21:48 House 1 Bank Balance is  38600
+2013/04/11 13:21:48 House 2 Bank Balance is  174600
+2013/04/11 13:21:48 End of Cycle 1
+
+2013/04/11 13:21:48 Steve: Current Happiness: -10. Current age: 1. Maximum age: 75.
+2013/04/11 13:21:49 Gertrude: Current Happiness: 78. Current age: 22. Maximum age: 103.
+2013/04/11 13:21:49 Emma: Current Happiness: 100. Current age: 22. Maximum age: 125.
+2013/04/11 13:21:49 Gerome: Current Happiness: 100. Current age: 22. Maximum age: 125.
+2013/04/11 13:21:49 Child created: Jen
+2013/04/11 13:21:49 Jen was created
+2013/04/11 13:21:49 Larry: Current Happiness: 90. Current age: 22. Maximum age: 116.
+2013/04/11 13:21:49 House 1 Bank Balance is  73340
+2013/04/11 13:21:49 House 2 Bank Balance is  198866
+2013/04/11 13:21:49 End of Cycle 2
+
+2013/04/11 13:21:49 Jen: Current Happiness: 6. Current age: 1. Maximum age: 75.
+2013/04/11 13:21:49 Larry: Current Happiness: 76. Current age: 23. Maximum age: 102.
+2013/04/11 13:21:49 Gertrude: Current Happiness: 93. Current age: 23. Maximum age: 118.
+2013/04/11 13:21:49 Emma: Current Happiness: 100. Current age: 23. Maximum age: 125.
+2013/04/11 13:21:49 Steve: Current Happiness: 17. Current age: 2. Maximum age: 75.
+2013/04/11 13:21:49 Child created: Jacob
+2013/04/11 13:21:49 Gerome: Current Happiness: 100. Current age: 23. Maximum age: 126.
+2013/04/11 13:21:49 Jacob was created
+2013/04/11 13:21:49 House 1 Bank Balance is  115607
+2013/04/11 13:21:49 House 2 Bank Balance is  240057
+2013/04/11 13:21:49 End of Cycle 3
+
+2013/04/11 13:21:49 Jacob: Current Happiness: 8. Current age: 1. Maximum age: 75.
+2013/04/11 13:21:50 Emma: Current Happiness: 100. Current age: 24. Maximum age: 125.
+2013/04/11 13:21:50 Child created: Sofia
+2013/04/11 13:21:50 Gertrude: Current Happiness: 98. Current age: 24. Maximum age: 123.
+2013/04/11 13:21:50 Sofia was created
+2013/04/11 13:21:50 Jen: Current Happiness: 31. Current age: 2. Maximum age: 75.
+2013/04/11 13:21:50 Larry: Current Happiness: 100. Current age: 24. Maximum age: 126.
+2013/04/11 13:21:50 Steve: Current Happiness: 29. Current age: 3. Maximum age: 75.
+2013/04/11 13:21:50 Gerome: Current Happiness: 100. Current age: 24. Maximum age: 126.
+2013/04/11 13:21:50 House 1 Bank Balance is  142646
+2013/04/11 13:21:50 House 2 Bank Balance is  245841
+2013/04/11 13:21:50 End of Cycle 4
+
+2013/04/11 13:21:50 Sofia: Current Happiness: 10. Current age: 1. Maximum age: 70.
+2013/04/11 13:21:51 Jacob: Current Happiness: 8. Current age: 2. Maximum age: 70.
+2013/04/11 13:21:51 Emma: Current Happiness: 100. Current age: 25. Maximum age: 120.
+2013/04/11 13:21:51 Gerome: Current Happiness: 100. Current age: 25. Maximum age: 121.
+2013/04/11 13:21:51 Larry: Current Happiness: 93. Current age: 25. Maximum age: 114.
+2013/04/11 13:21:51 Gertrude: Current Happiness: 100. Current age: 25. Maximum age: 120.
+2013/04/11 13:21:51 Child created: Angelina
+2013/04/11 13:21:51 Angelina was created
+2013/04/11 13:21:51 Jen: Current Happiness: 44. Current age: 3. Maximum age: 70.
+2013/04/11 13:21:51 Steve: Current Happiness: 42. Current age: 4. Maximum age: 70.
+2013/04/11 13:21:51 House 1 Bank Balance is  159849
+2013/04/11 13:21:51 House 2 Bank Balance is  246861
+2013/04/11 13:21:51 End of Cycle 5
+
+2013/04/11 13:21:51 Angelina: Current Happiness: 17. Current age: 1. Maximum age: 70.
+2013/04/11 13:21:52 Steve: Current Happiness: 13. Current age: 5. Maximum age: 65.
+2013/04/11 13:21:52 Emma: Current Happiness: 100. Current age: 26. Maximum age: 115.
+2013/04/11 13:21:52 Larry: Current Happiness: 98. Current age: 26. Maximum age: 114.
+2013/04/11 13:21:52 Sofia: Current Happiness: 35. Current age: 2. Maximum age: 65.
+2013/04/11 13:21:52 Jacob: Current Happiness: 46. Current age: 3. Maximum age: 65.
+2013/04/11 13:21:52 Gerome: Current Happiness: 100. Current age: 26. Maximum age: 116.
+2013/04/11 13:21:52 Gertrude: Current Happiness: 100. Current age: 26. Maximum age: 115.
+2013/04/11 13:21:52 Child created: Sarah
+2013/04/11 13:21:52 Sarah was created
+2013/04/11 13:21:52 Jen: Current Happiness: 45. Current age: 4. Maximum age: 65.
+2013/04/11 13:21:52 House 1 Bank Balance is  166071
+2013/04/11 13:21:52 House 2 Bank Balance is  259290
+2013/04/11 13:21:52 End of Cycle 6
+
+2013/04/11 13:21:52 Sarah: Current Happiness: 24. Current age: 1. Maximum age: 75.
+2013/04/11 13:21:52 Jen: Current Happiness: 26. Current age: 5. Maximum age: 65.
+2013/04/11 13:21:52 Emma: Current Happiness: 100. Current age: 27. Maximum age: 115.
+2013/04/11 13:21:52 Larry: Current Happiness: 100. Current age: 27. Maximum age: 116.
+2013/04/11 13:21:52 Angelina: Current Happiness: 23. Current age: 2. Maximum age: 70.
+2013/04/11 13:21:52 Steve: Current Happiness: 71. Current age: 6. Maximum age: 86.
+2013/04/11 13:21:52 Sofia: Current Happiness: 60. Current age: 3. Maximum age: 75.
+2013/04/11 13:21:52 Jacob: Current Happiness: 58. Current age: 4. Maximum age: 73.
+2013/04/11 13:21:52 Gerome: Current Happiness: 100. Current age: 27. Maximum age: 116.
+2013/04/11 13:21:52 Gertrude: Current Happiness: 100. Current age: 27. Maximum age: 115.
+2013/04/11 13:21:52 Child created: Sofia
+2013/04/11 13:21:52 Sofia was created
+2013/04/11 13:21:52 House 1 Bank Balance is  196174
+2013/04/11 13:21:52 House 2 Bank Balance is  326892
+2013/04/11 13:21:52 End of Cycle 7
+
+2013/04/11 13:21:52 Sofia: Current Happiness: 23. Current age: 1. Maximum age: 70.
+2013/04/11 13:21:53 Emma: Current Happiness: 100. Current age: 28. Maximum age: 110.
+2013/04/11 13:21:53 Gertrude: Current Happiness: 84. Current age: 28. Maximum age: 94.
+2013/04/11 13:21:53 Child created: Sarah
+2013/04/11 13:21:53 Larry: Current Happiness: 100. Current age: 28. Maximum age: 111.
+2013/04/11 13:21:53 Sarah was created
+2013/04/11 13:21:53 Sarah: Current Happiness: 30. Current age: 2. Maximum age: 70.
+2013/04/11 13:21:53 Jen: Current Happiness: 65. Current age: 6. Maximum age: 75.
+2013/04/11 13:21:53 Angelina: Current Happiness: 28. Current age: 3. Maximum age: 65.
+2013/04/11 13:21:53 Steve: Current Happiness: 63. Current age: 7. Maximum age: 73.
+2013/04/11 13:21:53 Sofia: Current Happiness: 51. Current age: 4. Maximum age: 61.
+2013/04/11 13:21:53 Jacob: Current Happiness: 50. Current age: 5. Maximum age: 60.
+2013/04/11 13:21:53 Gerome: Current Happiness: 100. Current age: 28. Maximum age: 111.
+2013/04/11 13:21:53 House 1 Bank Balance is  180147
+2013/04/11 13:21:53 House 2 Bank Balance is  285534
+2013/04/11 13:21:53 End of Cycle 8
+
+2013/04/11 13:21:53 Sarah: Current Happiness: 27. Current age: 1. Maximum age: 75.
+2013/04/11 13:21:54 Emma: Current Happiness: 100. Current age: 29. Maximum age: 111.
+2013/04/11 13:21:54 Gerome: Current Happiness: 100. Current age: 29. Maximum age: 111.
+2013/04/11 13:21:54 Larry: Current Happiness: 100. Current age: 29. Maximum age: 111.
+2013/04/11 13:21:54 Sofia: Current Happiness: 37. Current age: 2. Maximum age: 71.
+2013/04/11 13:21:54 Gertrude: Current Happiness: 94. Current age: 29. Maximum age: 104.
+2013/04/11 13:21:54 Sarah: Current Happiness: 45. Current age: 3. Maximum age: 70.
+2013/04/11 13:21:54 Jen: Current Happiness: 76. Current age: 7. Maximum age: 86.
+2013/04/11 13:21:54 Angelina: Current Happiness: 43. Current age: 4. Maximum age: 65.
+2013/04/11 13:21:54 Steve: Current Happiness: 74. Current age: 8. Maximum age: 85.
+2013/04/11 13:21:54 Sofia: Current Happiness: 63. Current age: 5. Maximum age: 73.
+2013/04/11 13:21:54 Jacob: Current Happiness: 71. Current age: 6. Maximum age: 81.
+2013/04/11 13:21:54 House 1 Bank Balance is  194154
+2013/04/11 13:21:54 House 2 Bank Balance is  342411
+2013/04/11 13:21:54 End of Cycle 9
+
+2013/04/11 13:21:54 Jacob: Current Happiness: 28. Current age: 7. Maximum age: 55.
+2013/04/11 13:21:54 Emma: Current Happiness: 100. Current age: 30. Maximum age: 106.
+2013/04/11 13:21:54 Larry: Current Happiness: 100. Current age: 30. Maximum age: 106.
+2013/04/11 13:21:54 Gertrude: Current Happiness: 81. Current age: 30. Maximum age: 86.
+2013/04/11 13:21:54 Sarah: Current Happiness: 31. Current age: 2. Maximum age: 70.
+2013/04/11 13:21:54 Gerome: Current Happiness: 100. Current age: 30. Maximum age: 106.
+2013/04/11 13:21:54 Sofia: Current Happiness: 42. Current age: 3. Maximum age: 66.
+2013/04/11 13:21:54 Sarah: Current Happiness: 40. Current age: 4. Maximum age: 65.
+2013/04/11 13:21:54 Jen: Current Happiness: 63. Current age: 8. Maximum age: 68.
+2013/04/11 13:21:54 Angelina: Current Happiness: 38. Current age: 5. Maximum age: 60.
+2013/04/11 13:21:54 Steve: Current Happiness: 61. Current age: 9. Maximum age: 67.
+2013/04/11 13:21:54 Sofia: Current Happiness: 60. Current age: 6. Maximum age: 65.
+2013/04/11 13:21:54 House 1 Bank Balance is  170030
+2013/04/11 13:21:54 House 2 Bank Balance is  284075
+2013/04/11 13:21:54 End of Cycle 10
+
+2013/04/11 13:21:55 Emma: Current Happiness: 100. Current age: 31. Maximum age: 106.
+2013/04/11 13:21:55 Jacob: Current Happiness: 27. Current age: 8. Maximum age: 55.
+2013/04/11 13:21:55 Sofia: Current Happiness: 26. Current age: 7. Maximum age: 55.
+2013/04/11 13:21:55 Larry: Current Happiness: 100. Current age: 31. Maximum age: 106.
+2013/04/11 13:21:55 Gertrude: Current Happiness: 78. Current age: 31. Maximum age: 83.
+2013/04/11 13:21:55 Sarah: Current Happiness: 29. Current age: 3. Maximum age: 70.
+2013/04/11 13:21:55 Gerome: Current Happiness: 100. Current age: 31. Maximum age: 106.
+2013/04/11 13:21:55 Sofia: Current Happiness: 39. Current age: 4. Maximum age: 66.
+2013/04/11 13:21:55 Sarah: Current Happiness: 37. Current age: 5. Maximum age: 65.
+2013/04/11 13:21:55 Jen: Current Happiness: 61. Current age: 9. Maximum age: 66.
+2013/04/11 13:21:55 Angelina: Current Happiness: 46. Current age: 6. Maximum age: 60.
+2013/04/11 13:21:55 Steve: Current Happiness: 59. Current age: 10. Maximum age: 65.
+2013/04/11 13:21:55 House 1 Bank Balance is  158027
+2013/04/11 13:21:55 House 2 Bank Balance is  281524
+2013/04/11 13:21:55 End of Cycle 11
+
+2013/04/11 13:21:56 Emma: Current Happiness: 100. Current age: 32. Maximum age: 107.
+2013/04/11 13:21:56 Jacob: Current Happiness: 34. Current age: 9. Maximum age: 55.
+2013/04/11 13:21:56 Larry: Current Happiness: 100. Current age: 32. Maximum age: 106.
+2013/04/11 13:21:56 Steve: Current Happiness: 57. Current age: 11. Maximum age: 63.
+2013/04/11 13:21:56 Sofia: Current Happiness: 68. Current age: 8. Maximum age: 73.
+2013/04/11 13:21:56 Sarah: Current Happiness: 23. Current age: 4. Maximum age: 71.
+2013/04/11 13:21:56 Gerome: Current Happiness: 100. Current age: 32. Maximum age: 106.
+2013/04/11 13:21:56 Gertrude: Current Happiness: 91. Current age: 32. Maximum age: 96.
+2013/04/11 13:21:56 Sofia: Current Happiness: 42. Current age: 5. Maximum age: 66.
+2013/04/11 13:21:56 Sarah: Current Happiness: 50. Current age: 6. Maximum age: 65.
+2013/04/11 13:21:56 Jen: Current Happiness: 67. Current age: 10. Maximum age: 72.
+2013/04/11 13:21:56 Angelina: Current Happiness: 48. Current age: 7. Maximum age: 60.
+2013/04/11 13:21:56 House 1 Bank Balance is  170928
+2013/04/11 13:21:56 House 2 Bank Balance is  318024
+2013/04/11 13:21:56 End of Cycle 12
+
+2013/04/11 13:21:57 Emma: Current Happiness: 100. Current age: 33. Maximum age: 109.
+2013/04/11 13:21:57 Angelina: Current Happiness: 41. Current age: 8. Maximum age: 62.
+2013/04/11 13:21:57 Larry: Current Happiness: 100. Current age: 33. Maximum age: 106.
+2013/04/11 13:21:57 Jacob: Current Happiness: 72. Current age: 10. Maximum age: 79.
+2013/04/11 13:21:57 Steve: Current Happiness: 84. Current age: 12. Maximum age: 92.
+2013/04/11 13:21:57 Sofia: Current Happiness: 83. Current age: 9. Maximum age: 88.
+2013/04/11 13:21:57 Sarah: Current Happiness: 29. Current age: 5. Maximum age: 73.
+2013/04/11 13:21:57 Gerome: Current Happiness: 100. Current age: 33. Maximum age: 106.
+2013/04/11 13:21:57 Gertrude: Current Happiness: 97. Current age: 33. Maximum age: 102.
+2013/04/11 13:21:57 Sofia: Current Happiness: 58. Current age: 6. Maximum age: 76.
+2013/04/11 13:21:57 Sarah: Current Happiness: 56. Current age: 7. Maximum age: 73.
+2013/04/11 13:21:57 Jen: Current Happiness: 81. Current age: 11. Maximum age: 86.
+2013/04/11 13:21:57 House 1 Bank Balance is  210113
+2013/04/11 13:21:57 House 2 Bank Balance is  389935
+2013/04/11 13:21:57 End of Cycle 13
+
+2013/04/11 13:21:57 Jen: Current Happiness: 46. Current age: 12. Maximum age: 55.
+2013/04/11 13:21:57 Angelina: Current Happiness: 44. Current age: 9. Maximum age: 62.
+2013/04/11 13:21:57 Emma: Current Happiness: 100. Current age: 34. Maximum age: 109.
+2013/04/11 13:21:57 Jacob: Current Happiness: 44. Current age: 11. Maximum age: 58.
+2013/04/11 13:21:57 Larry: Current Happiness: 100. Current age: 34. Maximum age: 106.
+2013/04/11 13:21:57 Steve: Current Happiness: 66. Current age: 13. Maximum age: 75.
+2013/04/11 13:21:57 Sofia: Current Happiness: 78. Current age: 10. Maximum age: 83.
+2013/04/11 13:21:57 Sarah: Current Happiness: 42. Current age: 6. Maximum age: 74.
+2013/04/11 13:21:57 Gerome: Current Happiness: 100. Current age: 34. Maximum age: 106.
+2013/04/11 13:21:57 Gertrude: Current Happiness: 100. Current age: 34. Maximum age: 105.
+2013/04/11 13:21:57 Sofia: Current Happiness: 61. Current age: 7. Maximum age: 80.
+2013/04/11 13:21:57 Sarah: Current Happiness: 59. Current age: 8. Maximum age: 76.
+2013/04/11 13:21:57 House 1 Bank Balance is  225618
+2013/04/11 13:21:57 House 2 Bank Balance is  375448
+2013/04/11 13:21:57 End of Cycle 14
+
+2013/04/11 13:21:58 Emma: Current Happiness: 100. Current age: 35. Maximum age: 109.
+2013/04/11 13:21:58 Angelina: Current Happiness: 40. Current age: 10. Maximum age: 62.
+2013/04/11 13:21:58 Jen: Current Happiness: 60. Current age: 13. Maximum age: 65.
+2013/04/11 13:21:58 Larry: Current Happiness: 100. Current age: 35. Maximum age: 106.
+2013/04/11 13:21:58 Sarah: Current Happiness: 38. Current age: 9. Maximum age: 67.
+2013/04/11 13:21:58 Jacob: Current Happiness: 71. Current age: 12. Maximum age: 79.
+2013/04/11 13:21:58 Steve: Current Happiness: 70. Current age: 14. Maximum age: 79.
+2013/04/11 13:21:58 Sofia: Current Happiness: 68. Current age: 11. Maximum age: 73.
+2013/04/11 13:21:58 Sarah: Current Happiness: 37. Current age: 7. Maximum age: 74.
+2013/04/11 13:21:58 Gerome: Current Happiness: 100. Current age: 35. Maximum age: 106.
+2013/04/11 13:21:58 Gertrude: Current Happiness: 95. Current age: 35. Maximum age: 100.
+2013/04/11 13:21:58 Sofia: Current Happiness: 56. Current age: 8. Maximum age: 75.
+2013/04/11 13:21:58 House 1 Bank Balance is  208056
+2013/04/11 13:21:58 House 2 Bank Balance is  326550
+2013/04/11 13:21:58 End of Cycle 15
+
+2013/04/11 13:21:59 Emma: Current Happiness: 100. Current age: 36. Maximum age: 109.
+2013/04/11 13:21:59 Sofia: Current Happiness: 37. Current age: 9. Maximum age: 69.
+2013/04/11 13:21:59 Angelina: Current Happiness: 35. Current age: 11. Maximum age: 62.
+2013/04/11 13:21:59 Jen: Current Happiness: 57. Current age: 14. Maximum age: 62.
+2013/04/11 13:21:59 Larry: Current Happiness: 100. Current age: 36. Maximum age: 106.
+2013/04/11 13:21:59 Gertrude: Current Happiness: 82. Current age: 36. Maximum age: 87.
+2013/04/11 13:21:59 Sarah: Current Happiness: 43. Current age: 10. Maximum age: 67.
+2013/04/11 13:21:59 Jacob: Current Happiness: 68. Current age: 13. Maximum age: 76.
+2013/04/11 13:21:59 Sofia: Current Happiness: 67. Current age: 12. Maximum age: 72.
+2013/04/11 13:21:59 Steve: Current Happiness: 65. Current age: 15. Maximum age: 74.
+2013/04/11 13:21:59 Sarah: Current Happiness: 41. Current age: 8. Maximum age: 74.
+2013/04/11 13:21:59 Gerome: Current Happiness: 100. Current age: 36. Maximum age: 106.
+2013/04/11 13:21:59 House 1 Bank Balance is  192250
+2013/04/11 13:21:59 House 2 Bank Balance is  312325
+2013/04/11 13:21:59 End of Cycle 16
+

@@ -1,0 +1,172 @@
+package world;
+
+/**
+ * The house slass that will be holind all if the iformation about the house and
+ * the information of a falily living in the hosue.
+ *
+ * @author Vincent Tennant
+ */
+import data.*;
+
+public class House {
+
+    private int bankBalance;
+    private int numPeople;
+    private HouseType houseType;
+    private String familyName;
+    // private enum houseName ;
+    private int expense;
+    private int feeling;
+    private int numMaleAdults;
+    private int numFemaleAdults;
+    private int numMaleKids;
+    private int numFemaleKids;
+    private boolean flag;
+    private final int MAX_PEOPLE ;
+
+    /**
+     * General House creation constructor.
+     */
+    public House(HouseType houseType, String familyName) {
+        this.MAX_PEOPLE = 25;
+        this.houseType = houseType;
+        this.familyName = familyName;
+        expense = houseType.getExpense();
+        flag = true;
+    }
+
+    /**
+     * Updates the bank balance based on the integer "n" passed to the method.
+     */
+    public void updateBankBalance(int n) {
+        bankBalance += n;
+    }
+
+    /**
+     * returns the current Bank balance.
+     */
+    public int getBankBalance() {
+        return bankBalance;
+    }
+
+    /**
+     * Add and remove methods for the number of people.
+     */
+    public void addPerson(Person p) {
+        if(numPeople + 1 <= MAX_PEOPLE) {
+            if (p.getGender() == Gender.Male && p.getAge() >= 20) {
+                setNumMaleAdults(getNumMaleAdults() + 1);
+            } else if (p.getGender() == Gender.Male && p.getAge() < 20) {
+                setNumMaleKids(getNumMaleKids() + 1);
+            } else if (p.getGender() == Gender.Female && p.getAge() >= 20) {
+                setNumFemaleAdults(getNumFemaleAdults() + 1);
+            } else if (p.getGender() == Gender.Female && p.getAge() < 20) {
+                setNumFemaleKids(getNumFemaleKids() + 1);
+            }
+            numPeople++;
+        } else {
+            //DO NOTHING! :O
+        }
+    }
+
+    /**
+     * Removes a person from the house by decrimenting the nubmer of people
+     * living in the house.
+     */
+    public void removePerson(Person p) {
+        if (p.getGender() == Gender.Male && p.getAge() >= 20) {
+            setNumMaleAdults(getNumMaleAdults() - 1);
+        } else if (p.getGender() == Gender.Male && p.getAge() < 20) {
+            setNumMaleKids(getNumMaleKids() - 1);
+        } else if (p.getGender() == Gender.Female && p.getAge() >= 20) {
+            setNumFemaleAdults(getNumFemaleAdults() - 1);
+        } else if (p.getGender() == Gender.Female && p.getAge() < 20) {
+            setNumFemaleKids(getNumFemaleKids() - 1);
+        }
+        numPeople--;
+
+    }
+
+    // ///////////////////////////////////////////////////////////////////
+    // ///Below are the genaric getters and setters for the house class
+    // ///////////////////////////////////////////////////////////////////
+    public boolean getFlag() {
+        return flag;
+    }
+
+    public void setFlag(boolean flag) {
+        this.flag = flag;
+    }
+
+    public void setHouseType(HouseType type) {
+        houseType = type;
+    }
+
+    public HouseType getHouseType() {
+        return houseType;
+    }
+
+    public void setFamilyName(String name) {
+        familyName = name;
+    }
+
+    public String getfamilyName() {
+        return familyName;
+    }
+
+    public int getExpense() {
+        return expense;
+    }
+
+    public int getFeeling() {
+        return feeling;
+    }
+
+    public int getNumPeople() {
+        return numPeople;
+    }
+
+    public void setNumPeople(int numPeople) {
+        this.numPeople = numPeople;
+    }
+
+    public void setBankBalance(int i) {
+        bankBalance = i;
+    }
+
+    public int getNumMaleAdults() {
+        return numMaleAdults;
+    }
+
+    public void setNumMaleAdults(int numMaleAdults) {
+        this.numMaleAdults = numMaleAdults;
+    }
+
+    public int getNumFemaleKids() {
+        return numFemaleKids;
+    }
+
+    public void setNumFemaleKids(int numFemaleKids) {
+        this.numFemaleKids = numFemaleKids;
+    }
+
+    public int getNumMaleKids() {
+        return numMaleKids;
+    }
+
+    public void setNumMaleKids(int numMaleKids) {
+        this.numMaleKids = numMaleKids;
+    }
+
+    public int getNumFemaleAdults() {
+        return numFemaleAdults;
+    }
+
+    public void setNumFemaleAdults(int numFemaleAdults) {
+        this.numFemaleAdults = numFemaleAdults;
+    }
+    
+    public int getMaxPeople() {
+        return MAX_PEOPLE ;
+    }
+}
